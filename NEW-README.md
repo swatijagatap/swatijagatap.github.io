@@ -1,17 +1,19 @@
 # Student Portfolio
 
 A basic portfolio website built with **HTML and CSS**.  
-This project was created as part of the **Git & GitHub 101 Workshop**.
+This project was created as part of the **Git & GitHub 101 Workshop** at KLS VDIT, Haliyal by [@vijethx](https://github.com/vijethx)
 
 ---
 
 ## 🌐 Live Demo
-- **GitHub Pages**: https://your-username.github.io/portfolio  
-- **Vercel**: https://portfolio-yourname.vercel.app  
+
+- **GitHub Pages**: https://your-username.github.io/portfolio
+- **Vercel**: https://portfolio-yourname.vercel.app
 
 ---
 
 ## 📂 Project Structure
+
 ```
 portfolio/
 ├── index.html
@@ -19,16 +21,17 @@ portfolio/
 └── README.md
 ```
 
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/portfolio.git
    cd portfolio
+   ```
 2. Open index.html in your browser.
 
 ## 📤 Deployment
+
 On GitHub Pages
 Push your project to a GitHub repository.
 
@@ -50,6 +53,7 @@ Your site will be live at:
 https://portfolio-yourname.vercel.app
 
 ## 📝 Feedback
+
 This project helped me understand how to:
 
 Create and manage a repo on GitHub
