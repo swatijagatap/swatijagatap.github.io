@@ -12,15 +12,13 @@ This project was created as part of the **Git & GitHub 101 Workshop**.
 ---
 
 ## 📂 Project Structure
+```
 portfolio/
-│── index.html
-│── style.css
+├── index.html
+├── style.css
 └── README.md
+```
 
-yaml
-Copy code
-
----
 
 ## 🚀 Getting Started
 
